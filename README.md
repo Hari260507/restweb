@@ -614,14 +614,22 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-![alt text](static/1.png)
-![alt text](static/2.png)
-![alt text](static/3.png)
-![alt text](static/4.png)
-![alt text](static/5.png)
-![alt text](static/6.png)
-![alt text](static/7.png)
-![alt text](static/8.png)
+![Screenshot 2024-12-21 083119](https://github.com/user-attachments/assets/5679e679-f168-4cdc-8bd9-e6c8c9cca027)
+![Screenshot 2024-12-21 083148](https://github.com/user-attachments/assets/bab1f638-8cb2-4cd9-9886-a7a07607d491)
+![Screenshot 2024-12-21 083222](https://github.com/user-attachments/assets/bb773db2-f10f-4d3e-a51c-7dc69d6e1ec5)
+![Screenshot 2024-12-21 083244](https://github.com/user-attachments/assets/0e97f0e8-ef47-4989-b9e3-c6a18195cfb2)
+![Screenshot 2024-12-21 083302](https://github.com/user-attachments/assets/f1fbbf14-c6df-4447-a1ff-fc42fad3b428)
+![Screenshot 2024-12-21 083320](https://github.com/user-attachments/assets/9148e1ec-41ec-40cc-965d-179c81a6ea28)
+![Screenshot 2024-12-21 083339](https://github.com/user-attachments/assets/3f829ea0-a904-498a-bc16-b11b7f404d43)
+![Screenshot 2024-12-21 083353](https://github.com/user-attachments/assets/ace85ff1-03f8-4f7b-baf2-c04910c0d552)
+
+
+
+
+
+
+
+
 
 
 ## RESULT:
